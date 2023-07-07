@@ -76,3 +76,11 @@
     border-radius: 10px;
     width: 200px;
 }
+
+.ex-10-icon{
+    animation: spin infinite;
+}
+
+.ex-10-icon:hover{
+    transform: rotate(1turn);
+}
